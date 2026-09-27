@@ -31,7 +31,7 @@ hazard alerts — not raw meteorological variables.
 
 Full architecture diagram:
 
-![PRAVAAH-NOW Architecture](main/architecture_flow.png)
+![PRAVAAH-NOW Architecture](architecture_flow.png)
 ## Repo structure
 
 ```
