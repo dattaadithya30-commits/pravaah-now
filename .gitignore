@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Model artifacts
+*.pt
+*.pth
+checkpoints/
+
+# Data (raw radar/satellite/DEM files are large — don't commit them)
+sample_data/
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.nc
+
+# Node / frontend
+node_modules/
+dist/
+.next/
+.env
+.env.local
+
+# OS
+.DS_Store

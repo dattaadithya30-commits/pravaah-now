@@ -1,0 +1,16 @@
+# Model
+torch>=2.1
+
+# Data pipeline
+arm_pyart
+wradlib
+h5py
+rasterio
+scipy
+numpy
+xarray
+
+# Backend
+fastapi
+uvicorn[standard]
+pydantic
