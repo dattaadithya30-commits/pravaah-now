@@ -61,8 +61,8 @@ otherwise to a technical judge:
 | Source | Access | Used for |
 |---|---|---|
 | [MOSDAC](https://mosdac.gov.in) | Have access | INSAT-3D/3DR imagery |
-| Copernicus DEM | Have access | Terrain slope / orographic-lift features |
-| IMD DWR network | Public radar products | Doppler reflectivity, velocity |
+| [Copernicus DEM](https://browser.dataspace.copernicus.eu/)| Have access | Terrain slope / orographic-lift features |
+| [IMD DWR network](https://mausam.imd.gov.in/) | Public radar products, access approval awaited| Doppler reflectivity, velocity |
 | [NCMRWF IMDAA](https://rds.ncmrwf.gov.in) | Open | Reanalysis reference (12 km, not live — used for validation only) |
 
 ## Tech stack
@@ -75,7 +75,7 @@ otherwise to a technical judge:
 
 ## References
 
-See [`docs/references.md`](docs/references.md) for the full paper/dataset list
+See [`docs/references.md`](references.md) for the full paper/dataset list
 cited in our PPT.
 
 ## Team
