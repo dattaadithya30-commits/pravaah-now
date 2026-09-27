@@ -29,7 +29,7 @@ the intense storm cores that actually matter for hail/cloudburst detection).
 Output is translated directly into ward-level rainfall accumulation and
 hazard alerts — not raw meteorological variables.
 
-Full architecture diagram: ["C:\Users\datta\Downloads\pravaah-now-repo\pravaah-now\docs\architecture_flow.png"]("C:\Users\datta\Downloads\pravaah-now-repo\pravaah-now\docs\architecture_flow.png")
+Full architecture diagram: ["C:\Users\datta\Downloads\pravaah-now-repo\pravaah-now\docs\architecture_flow.png"](C:\Users\datta\Downloads\pravaah-now-repo\pravaah-now\docs\architecture_flow.png)
 
 ## Repo structure
 
